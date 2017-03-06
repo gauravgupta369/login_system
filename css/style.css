@@ -1,0 +1,24 @@
+footer{
+	background: #222;
+	color:#fff;
+	width:100%;
+	position: fixed;
+	bottom: 0;
+}
+footer p {
+	margin:20px 20px;
+	text-align: center;
+}
+.spacing{
+	margin: 6px 0;
+}
+#login {
+	margin-top: 80px;
+}
+#user{
+	text-align: center;
+}
+#user h1{
+	margin-top: 100px;
+	font-size: 80px;
+}
