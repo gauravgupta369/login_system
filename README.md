@@ -14,7 +14,7 @@ PDO
 ```
 #!GIT
 cd /var/www/html
-git clone https://github.com/gauravthebest/login_system
+git clone https://github.com/gauravthebest/login_system.git
 
 ```
 * Navigate to the working directiry **/var/www/html/login_system**
